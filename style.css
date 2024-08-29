@@ -1,0 +1,35 @@
+div{
+    height: 600px;
+    width: 300px;
+    background-color: black;
+    margin: auto;
+}
+
+.r{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.y{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: yellow;
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.g{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: green;
+    margin-top: 50px;
+    padding: 30px;
+    
+}
+

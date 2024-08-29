@@ -1,0 +1,41 @@
+.nav {
+    background-color: black;
+    height: 60px;
+}
+.first { 
+    font-size: 25px;
+    color: orangered;
+    margin-right: 200px;
+
+}
+
+.sec{
+    color: white;
+    margin-right: 200px;
+
+}
+
+.third{
+    color: white;
+    margin-right: 200px;
+
+}
+
+.four {
+    color: white;
+    margin-right: 200px;
+
+
+}
+
+.five{
+    color: gray;
+
+}
+.but {
+    color: white;
+    background-color: #f08804;
+}
+a {
+    text-decoration: none;
+}
